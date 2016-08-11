@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyaccountTest</string>
+    <string name="title_activity_smsreceiver">Smsreceiver</string>
+</resources>
